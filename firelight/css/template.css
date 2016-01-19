@@ -72,8 +72,8 @@ h2.home {
 }
 
 .main-page header {
-	padding-top: 50px;
-	padding-bottom: 170px;
+	
+	padding-bottom: 140px;
 	position: relative;
 }
 
@@ -83,7 +83,7 @@ h2.home {
 	padding: 8px 0; 
 	position: absolute;
 	right:0;
-	top:86px;
+	top:42px;
 	border-top-left-radius: 5px; 
 	border-bottom-left-radius: 5px; 
 	-moz-border-top-left-radius: 5px; 
